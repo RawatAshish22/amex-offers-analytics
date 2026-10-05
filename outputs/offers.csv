@@ -1,0 +1,7 @@
+offer_id,merchant_id,discount_pct,min_spend,offer_type,start_date,end_date
+O001,M001,10,50,Discount,2011-01-01,2011-12-31
+O002,M002,15,75,Discount,2011-01-01,2011-12-31
+O003,M003,10,40,Discount,2011-01-01,2011-12-31
+O004,M004,20,30,Discount,2011-01-01,2011-12-31
+O005,M005,15,60,Discount,2011-01-01,2011-12-31
+O006,M006,5,100,Discount,2011-01-01,2011-12-31
